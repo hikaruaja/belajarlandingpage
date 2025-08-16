@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const age = parseInt(ageInput.value, 10);
         
         // Ganti dengan URL Web App Anda
-        const webAppURL = 'https://script.google.com/macros/s/AKfycbx3taODWU3B9FkM5ySPQNOyJCQxWmsIWe9mbOMdwNX6jjaLPhSr2w_KEal2lQqILaUp/exec'; 
+        const webAppURL = 'https://script.google.com/macros/s/AKfycbxjXLPkot2Fn-QXOKjTOxX4QWDT9FeQr7eInTwO23I/dev'; 
         const videoURL = 'https://www.youtube.com/watch?v=E2lUhw5KF10'; 
 
         if (age < 25) {
